@@ -1,20 +1,21 @@
-Hey there 👋
+Hey there 👋<br>
 
-I’m Sowmya R, a CSE student.
+I’m Sowmya R, a CSE student.<br>
 _________________________________________________________
 
-I like building things and figuring out how they work.
-From idea to project — that’s how I learn.
+I like building things and figuring out how they work.<br>
+From idea to project — that’s how I learn.<br>
 
 __________________________________________________________
-I’ve worked with Java, Python, and web technologies, and I enjoy creating simple and functional projects.
+I’ve worked with Java, Python, and web technologies, and I enjoy creating simple and functional projects.<br>
 
-Currently:
-> Building projects to strengthen my skills
-> Learning through hands-on experience
-> Exploring new tools and ideas
+Currently:<br>
+
+- Building projects to strengthen my skills  
+- Learning through hands-on experience  
+- Exploring new tools and ideas  
 __________________________________________
-Happy Learning, building, and growing.❤️
+Happy Learning, building, and growing.❤️<br>
 
 <!--
 **sowmyatech18/sowmyatech18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
